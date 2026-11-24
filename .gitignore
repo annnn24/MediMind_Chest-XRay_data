@@ -1,0 +1,6 @@
+archive (3)/
+archive (3).zip
+chest_xray_resized/
+chest_xray_clahe/
+chest_xray_augmented/
+.ipynb_checkpoints/
